@@ -1,0 +1,29 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+ipython = "*"
+jupyter = "*"
+jupyterlab = "*"
+scrapy = "*"
+
+[packages]
+nltk = "*"
+spacy = "*"
+gensim = "*"
+sklearn = "*"
+pandas = "*"
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+seaborn = "*"
+cytoolz = "*"
+python-crfsuite = "*"
+pattern = "*"
+beautifulsoup4 = "*"
+requests = "*"
+
+[requires]
+python_version = "3.7"
