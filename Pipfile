@@ -24,6 +24,7 @@ python-crfsuite = "*"
 pattern = "*"
 beautifulsoup4 = "*"
 requests = "*"
+sklearn-crfsuite = "*"
 
 [requires]
 python_version = "3.7"
