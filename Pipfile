@@ -8,6 +8,8 @@ ipython = "*"
 jupyter = "*"
 jupyterlab = "*"
 scrapy = "*"
+ipython-autotime = "*"
+ipywidgets = "*"
 
 [packages]
 nltk = "*"
@@ -25,6 +27,11 @@ pattern = "*"
 beautifulsoup4 = "*"
 requests = "*"
 sklearn-crfsuite = "*"
+wordcloud = "*"
+xgboost = "*"
+numba = "*"
+tqdm = "*"
+symspellpy = "*"
 
 [requires]
 python_version = "3.7"
